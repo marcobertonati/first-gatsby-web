@@ -18,6 +18,7 @@ const AboutPage = () => {
       <p>
         Hi there! I'm the proud creator of this site, which I built with Gatsby.
       </p>
+      <h6>Hi! I'm testing this options!</h6>
     </Layout>
   );
 };
